@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-Hope my profile gave a positive impact
+ ### Hope my profile gave a positive impact
 
 </div>
