@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
  [![Twitter: Sanket Sinha](https://img.shields.io/twitter/follow/abkumar9677?style=social)](https://twitter.com/abkumar9677)
- [![Linkedin: Sanket Sinha](https://img.shields.io/badge/-abkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar-94b352188/)](https://www.linkedin.com/in/abhishek-kumar-94b352188/)
+ [![Linkedin: Sanket Sinha](https://www.linkedin.com/in/sanket-sinha-7631441b6/)
  [![Linkedin: Sanket Sinha]
  
 <a href="https://github.com/sanket-sin">
