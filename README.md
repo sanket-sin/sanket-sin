@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  
  [![Twitter: Sanket Sinha](https://img.shields.io/twitter/follow/sankettt3?style=social)](https://twitter.com/sankettt3)
  
- [![Linkedin: Sanket Sinha](https://img.shields.io/badge/-sansin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-sinha-94b352188/)](https://www.linkedin.com/in/sanket-sinha-94b352188/)
+ [![Linkedin: Sanket Sinha](https://img.shields.io/badge/-sanket-sinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-sinha-94b352188/)](https://www.linkedin.com/in/sanket-sinha-94b352188/)
  
  [![GitHub sanket-sin](https://img.shields.io/github/followers/sanket-sin?label=follow&style=social)](https://github.com/sanket-sin)
  
