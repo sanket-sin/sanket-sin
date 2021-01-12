@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=sanket-sin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
- [![Twitter: Sanket Sinha](https://img.shields.io/twitter/follow/abkumar9677?style=social)](https://twitter.com/abkumar9677)
- [![Linkedin: Sanket Sinha](https://www.linkedin.com/in/sanket-sinha-7631441b6/)
- [![Linkedin: Sanket Sinha]
+ 
+ [![Twitter: abkumar9677](https://img.shields.io/twitter/follow/abkumar9677?style=social)](https://twitter.com/abkumar9677)
+ 
+ [![Linkedin: Abhishek Kumar](https://img.shields.io/badge/-abkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar-94b352188/)](https://www.linkedin.com/in/abhishek-kumar-94b352188/)
+ 
+ [![GitHub sanket-sin](https://img.shields.io/github/followers/sanket-sin?label=follow&style=social)](https://github.com/sanket-sin)
+ 
+ 
  
 <a href="https://github.com/sanket-sin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-sin&theme=dark&hide_langs_below=1" />
