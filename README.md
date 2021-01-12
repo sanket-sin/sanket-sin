@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/abkumar9677">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkumar9677&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/abkumar9677">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abkumar9677&show_icons=true&theme=dark&line_height=27" alt="ab's github stats"/>
+<a href="https://github.com/sanket-sin">
 </a>
 
 <div align="center">
